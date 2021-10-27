@@ -5,8 +5,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.tekschool.us.retail.hawks</groupId>
-	<artifactId>com.tekschool.us.retail.hawks</artifactId>
+	<groupId>com.tekschool.us.retail.hawks.datadriven</groupId>
+	<artifactId>com.tekschool.us.retail.hawks.datadriven</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<name>com.tekschool.us.retail.hawks</name>

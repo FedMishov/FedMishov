@@ -3,12 +3,12 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-10-20T07:32:03.225Z",
+        "start_timestamp": "2021-10-26T08:22:06.654Z",
         "before": [
           {
             "result": {
               "error_message": "java.lang.NullPointerException: Cannot invoke \"String.hashCode()\" because \"browserName\" is null\n\tat core.Base.browser(Base.java:91)\n\tat stepDefinitions.Initializer.beforHooks(Initializer.java:16)\n",
-              "duration": 35409000,
+              "duration": 28385000,
               "status": "failed"
             },
             "match": {
@@ -24,7 +24,7 @@
           {
             "result": {
               "error_message": "java.lang.NullPointerException: Cannot invoke \"org.openqa.selenium.WebDriver.close()\" because \"core.Base.driver\" is null\n\tat core.Base.tearDown(Base.java:81)\n\tat stepDefinitions.Initializer.afterHooks(Initializer.java:21)\n",
-              "duration": 516000,
+              "duration": 884000,
               "status": "failed"
             },
             "match": {
@@ -37,7 +37,7 @@
         "steps": [
           {
             "result": {
-              "duration": 904000,
+              "duration": 5243000,
               "status": "skipped"
             },
             "line": 6,
@@ -49,7 +49,7 @@
           },
           {
             "result": {
-              "duration": 305000,
+              "duration": 511000,
               "status": "skipped"
             },
             "line": 7,
@@ -61,7 +61,7 @@
           },
           {
             "result": {
-              "duration": 872000,
+              "duration": 1415000,
               "status": "skipped"
             },
             "line": 8,
@@ -73,7 +73,7 @@
           },
           {
             "result": {
-              "duration": 436000,
+              "duration": 709000,
               "status": "skipped"
             },
             "line": 9,
@@ -109,7 +109,7 @@
           },
           {
             "result": {
-              "duration": 227000,
+              "duration": 930000,
               "status": "skipped"
             },
             "line": 12,
@@ -121,7 +121,7 @@
           },
           {
             "result": {
-              "duration": 220000,
+              "duration": 280000,
               "status": "skipped"
             },
             "line": 13,
@@ -133,7 +133,7 @@
           },
           {
             "result": {
-              "duration": 1287000,
+              "duration": 1214000,
               "status": "skipped"
             },
             "line": 14,
